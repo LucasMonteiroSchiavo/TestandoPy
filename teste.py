@@ -24,7 +24,5 @@ elif aluno_passou.lower() == 'nao':
 else:
     print('Resposta inválida, digite "sim" ou "nao"')
 
-    print('Vasco')
-
 
 

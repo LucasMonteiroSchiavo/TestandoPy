@@ -25,4 +25,8 @@ else:
     print('Resposta inválida, digite "sim" ou "nao"')
 
 
+<<<<<<< HEAD
 
+=======
+print('O vasco é o melhor time do mundo')
+>>>>>>> NovaBranch

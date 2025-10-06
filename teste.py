@@ -22,3 +22,6 @@ elif aluno_passou.lower() == 'nao':
     print(f'{nome} infelizmente não passou!')
 else:
     print('Resposta inválida, digite "sim" ou "nao"')
+
+
+print('O vasco é o melhor time do mundo')
